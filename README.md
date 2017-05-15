@@ -10,4 +10,4 @@
 * Simple is better than complex (Borrowed from Zen of Python)
 * Design is not just what is looks like and feels like. Design is how it works (Steve Jobs)
 
-* Field tests (in Alaska) makes perfect.
+* Field tests, in [Antartica](https://www.youtube.com/watch?v=y-zRw8MtfGI), makes perfect.
